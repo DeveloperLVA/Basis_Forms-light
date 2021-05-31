@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* */
+
+.form {
+  display: flex;
+  width: 250px;
+  font-family: serif;
+  flex-direction: column;
+  margin-left: 100px;
+}
+
+
+.title {
+text-align: center;
+font-family: serif;
+color:rgb(92, 88, 88)
+
+}
+
+#sel {
+  width: 50px;
+}
